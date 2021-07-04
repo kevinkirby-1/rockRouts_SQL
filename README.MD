@@ -2,7 +2,7 @@
 
 A Simple Python program that interacts with an sqlite database. I wrote this to learn how to use a program to interact with an sql database.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SZ0XZgjzlps)
 
 # Relational Database
 
